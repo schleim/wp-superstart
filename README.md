@@ -4,12 +4,11 @@ A nice little Wordpress Starterstheme with Bootstrap 3, SASS, Gulp and BrowserSy
 
 ## Install
 
-``shell 
-$ npm install
-$ bower install
-$ gulp
-
-``
+``` shell 
+	$ npm install
+	$ bower install
+	$ gulp
+```
 
 
 
